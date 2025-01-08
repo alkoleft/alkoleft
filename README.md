@@ -1,8 +1,3 @@
-###
+![stats graph](https://github-readme-stats.vercel.app/api?username=alkoleft&locale=en&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&hide_border=true&show=prs_merged)
+![languages graph](https://github-readme-stats.vercel.app/api/top-langs?username=alkoleft&locale=en&hide_title=false&layout=compact&langs_count=10&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alkoleft&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&show=prs_merged&include_all_commits=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alkoleft&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
